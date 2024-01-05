@@ -1,20 +1,3 @@
-### Hi there 👋
-
-<!--
-**amir-ardalanuk/amir-ardalanuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Milo (Amir) Ardalani
 
 Lead | Senior iOS Developer
@@ -27,8 +10,6 @@ Lead | Senior iOS Developer
 Email: MiloArdalani@gmail.com
 
 Linkedin: [https://www.linkedin.com/in/amirrardalani](https://www.linkedin.com/in/amirrardalani/)
-
-Github: [https://github.com/amir-ardalanuk](https://github.com/amir-ardalanuk)
 
 
 - Introduction to User Experience Principles and Processes - *[University of Michigan](https://www.coursera.org/account/accomplishments/verify/U6WVDT7S793L)*
